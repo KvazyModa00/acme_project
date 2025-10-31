@@ -1,6 +1,7 @@
 asgiref==3.10.0
 Django==5.2.7
-django-bootstrap5==25.2
+django-bootstrap5==24.2
+django_debug_toolbar==3.8.1
 legacy-cgi==2.6.3
 pillow==10.4.0
 pytz==2025.2
